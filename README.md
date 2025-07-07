@@ -16,10 +16,12 @@ A high-performance **multithreaded proxy server** written in C++, capable of han
 > 📂 Place your images inside the `screenshots/` folder and update filenames if needed.
 
 ### 🧵 Terminal Output (on client request)
-![Terminal Output](screenshots/terminal-log.png)
+![Terminal Output](screenshots/terminal_op.png)
+### 🧵 Terminal Output (on WSL)
+![Terminal Output](screenshots/term_op.png)
 
 ### 🌐 Postman Proxy Setup
-![Postman Setup](screenshots/postman-proxy.png)
+![Postman Setup](screenshots/postman.png)
 
 ---
 
